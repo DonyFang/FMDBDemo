@@ -1,6 +1,6 @@
 # FMDBDemo
 
-
+详细的使用案例，demo中有，可以查看demo.
 
 Public APIs in FMDBHelper
 
