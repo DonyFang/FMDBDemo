@@ -4,7 +4,10 @@
 //
 //  Created by 方冬冬 on 2017/7/24.
 //  Copyright © 2017年 方冬冬. All rights reserved.
-//
+//推荐一个框架   对应模型存取
+//https://github.com/gitkong/FLFMDBManager
+
+//https://github.com/Haley-Wong/JKDBModel
 
 #import "ViewController.h"
 #import "BasicViewController.h"
