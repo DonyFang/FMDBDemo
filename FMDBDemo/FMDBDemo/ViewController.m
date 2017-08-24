@@ -9,6 +9,8 @@
 
 //https://github.com/Haley-Wong/JKDBModel
 
+//https://github.com/li6185377/LKDBHelper-SQLite-ORM
+
 #import "ViewController.h"
 #import "BasicViewController.h"
 #import "SubpackageViewController.h"
